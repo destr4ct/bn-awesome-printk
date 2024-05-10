@@ -1,4 +1,4 @@
-# Sample Plugin
+# BN-printk
 Author: destr4ct
 
 Plugin that beautifies the external printk calls.
